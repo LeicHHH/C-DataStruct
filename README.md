@@ -3,7 +3,7 @@ This is my implementation of a python server-client secure chat using TCP and UD
 
 ### DataStructures in C
 
-Some of my implementations of Stacks,Ternary tree(Character order) and undirected graphs in C
+Some of my implementations of sorting,stacks,ternary tree(character order) and undirected graphs in C.
 
 #### Authors
 Sebastian Mahuzier.
